@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/utp_clientes_s7?connectionTimeZone=America/Lima&allowPublicKeyRetrieval=true&sslMode=DISABLED&connectTimeout=5000&socketTimeout=5000
+db.user=root
+db.password=CAMBIAR_EN_CONFIGURACION_LOCAL
